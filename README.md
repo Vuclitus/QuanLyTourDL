@@ -1,4 +1,4 @@
-# Tour Management System - QLTourDL
+# Tour Management System - QuanLyTourDL
 
 Hệ thống quản lý tour du lịch với kiến trúc hiện đại: NextJS Frontend + FastAPI Backend + PostgreSQL Database.
 
