@@ -84,7 +84,7 @@ backend/
 
 ### 1. Clone repository
 ```bash
-cd c:\BTL_CNPM\QLTourDL
+cd d:\BTL_CNPM\QuanLyTourDL
 ```
 
 ### 2. Cài đặt Backend
@@ -159,13 +159,13 @@ App: http://localhost:3000
 
 ## 👥 Tác giả
 
-BTL CNPM - QLTourDL
+BTL CNPM - QuanLyTourDL
 
 
 1. Chạy Backend:
 
 # Đảm bảo bạn đang ở thư mục backend
-cd C:\BTL_CNPM\QLTourDL\backend
+cd d:\BTL_CNPM\QuanlyTourDL\backend
 
 # Cài đặt thư viện
 ..\.venv\Scripts\pip.exe install -r requirements.txt
